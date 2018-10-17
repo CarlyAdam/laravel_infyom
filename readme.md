@@ -25,9 +25,12 @@ Login
 
 ## Built with
 
-*- [Laravel](https://github.com/laravel/laravel) - [Licence](https://opensource.org/licenses/MIT) 
+*- [Laravel](https://github.com/laravel/laravel) - [Licence](https://opensource.org/licenses/MIT)
+
 *- [Infyom](https://github.com/InfyOmLabs/laravel-generator) - [Licence](https://opensource.org/licenses/MIT) 
+
 *- [AdminLTE](https://github.com/InfyOmLabs/adminlte-templates) - [Licence](https://opensource.org/licenses/MIT)
+
 *- [Swagger](https://github.com/InfyOmLabs/swagger-generator) - [Licence](https://opensource.org/licenses/MIT)
 
 
