@@ -54,7 +54,7 @@ class pelisController extends AppBaseController
 
     }
 
-        return view('pelis.create',compact('categoriasArray','cinesArray'));
+        return view('pelis.create',compact('cinesArray'));
     }
 
 
@@ -122,7 +122,7 @@ class pelisController extends AppBaseController
             return redirect(route('pelis.index'));
         }
 
-        return view('pelis.edit',compact('categoriasArray','cinesArray'))->with('pelis', $pelis);
+        return view('pelis.edit',compact('cinesArray'))->with('pelis', $pelis);
     }
 
     /**
